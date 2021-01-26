@@ -10,7 +10,7 @@
 
 Here are some things about me:
 
-- 🌱 I’m currently learning: Python by going through the Data Science in Python learning track from dataquest.io.
+- 🌱 I’m currently learning: Python by going through the 100daysofpython Udemy course.
 - 💬 Ask me about: Whatever you want, I may have an answer or might be able to direct you to someone else who can.
 - 📫 How to reach me: [@CodeReborn](https://twitter.com/CodeReborn)
 - ⚡ Fun fact: I enjoy reading, basketball, working out and eating a vegan diet.
